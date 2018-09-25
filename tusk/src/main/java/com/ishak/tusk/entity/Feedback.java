@@ -1,4 +1,4 @@
-package com.telusko.tusk.entity;
+package com.ishak.tusk.entity;
 
 import javax.persistence.Entity;
 

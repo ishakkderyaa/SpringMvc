@@ -1,4 +1,4 @@
-package com.telusko.tusk;
+package com.ishak.tusk;
 
 import java.util.List;
 

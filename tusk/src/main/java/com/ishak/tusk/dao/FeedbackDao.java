@@ -1,4 +1,4 @@
-package com.telusko.tusk.dao;
+package com.ishak.tusk.dao;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -9,6 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.telusko.tusk.entity.Feedback;
 
 // my sql conection yapmak icin yazilan kodlar burda olucak
+// feedback icinde donmesi gereken sql stringleri donucek
 
 
 @Component
